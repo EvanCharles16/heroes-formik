@@ -1,0 +1,37 @@
+{
+  "heroes": [
+    {
+      "values": {
+        "fullName": "Soekarno",
+        "born": 1901,
+        "died": 1970,
+        "description": "Aktivis kemerdekaan yang membacakan Proklamasi Kemerdekaan, Presiden Indonesia pertama",
+        "establishment": 2012,
+        "imgURL": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2019/08/09/4204294068.jpg"
+      },
+      "id": 1
+    },
+    {
+      "values": {
+        "fullName": "Soekarno",
+        "born": 1901,
+        "died": 1987,
+        "description": "Aktivis kemerdekaan yang membacakan Proklamasi Kemerdekaan, Presiden Indonesia pertama",
+        "establishment": 2012,
+        "imgURL": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2019/08/09/4204294068.jpg"
+      },
+      "id": 2
+    },
+    {
+      "values": {
+        "fullName": "Soekarno",
+        "born": "",
+        "died": "",
+        "description": "",
+        "establishment": "",
+        "imgURL": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2019/08/09/4204294068.jpg"
+      },
+      "id": 3
+    }
+  ]
+}
